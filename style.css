@@ -1,0 +1,70 @@
+body {
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	background: #777;
+}
+
+h1,
+h2,
+h3 {
+	border: black 1px solid;
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-weight: normal;
+	background: #ebebeb;
+}
+
+p {
+
+
+}
+
+.header {
+	width: 100%;
+	height: 50px;
+	margin: 0 0 10px 0;
+	background: #ebebeb;
+}
+
+.nav {
+	width: 100%;
+	height: 50px;
+	margin: 0 0 10px 0;
+	background: #ebebeb;
+}
+
+.section {
+	float: left;
+	width: 495px;
+	height: 200px;
+	margin: 0 0 10px 0;
+	background: #ebebeb;
+}
+
+.article {
+	margin: 5% 0 0 2.5%;
+	width: 95%;
+	height: 70%;
+	background: lightblue;
+}
+
+.aside {
+	margin: 0 0 0 10px;
+	width: 455px;
+	height: 200px;
+	float: left;
+	background: #ebebeb;
+}
+
+.clear {
+	clear: both;
+}
+
+.footer {
+	width: 100%;
+	height: 50px;
+	margin: 0 0 10px 0;
+	background: #ebebeb;
+}
